@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Oswald:700|Yellowtail|Patrick+Hand');
+
+nav, article, aside, footer section {
+    margin: 0 auto;
+    width: 900px;
+  }
+  
+  nav {
+    margin-top: 25px;
+  }
+  
+  .date {
+    float: left;
+  }
+  
+  .print {
+    text-decoration: none;
+    padding-left: 30px;
+    float: right;
+  }
+  
+  .print img {
+    margin-right: 3px;
+  }
+
+  hr {
+    clear: both;
+    border: 0;
+    height: 13px;
+    background-image: url('../img/hr.png');
+  }
+
+  aside {
+    padding-top: 30px;
+    padding-bottom: 60px
+  }
